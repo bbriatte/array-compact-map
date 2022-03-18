@@ -1,0 +1,26 @@
+{
+  "name": "array-compact-map",
+  "version": "1.0.0",
+  "description": "Remove all undefined values during array.map process",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbriatte/array-compact-map.git"
+  },
+  "keywords": [
+    "array",
+    "map",
+    "compact"
+  ],
+  "author": "bbriatte",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/bbriatte/array-compact-map/issues"
+  },
+  "homepage": "https://github.com/bbriatte/array-compact-map#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
+}
